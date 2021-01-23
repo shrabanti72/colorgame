@@ -103,6 +103,7 @@ for(var i=0;i<squares.length;i++)
              h1.style.background=clickedColor;
              resetbtn.textContent="Play Again";
              messageDisplay.style.color="green";
+
         }else
         {
             this.style.background="#232323";
